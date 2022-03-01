@@ -1,3 +1,5 @@
 hola este es una nueva practicad 
 de git y git hub 
 para repasar lo avanzado
+esta haciendo un diploado
+en TI en software libre 
